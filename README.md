@@ -20,6 +20,9 @@
         <li>Developed a 'Multipurpose Artificial Autonomous Drone'.</li>
       </ul>
     </li>
+    <h2>🌐 Portfolio Website</h2>
+  <p>Check out my portfolio here: <a href="https://innovate-with-meet.github.io/Personal-Portfolio/" target="_blank">https://innovate-with-meet.github.io/Personal-Portfolio/</a></p>
+    
     <li>🔭 <strong>Interests:</strong> AI, Machine Learning, defense systems, aeronautics, and system development.</li>
   </ul>
 
