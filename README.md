@@ -30,7 +30,7 @@
   <ul>
     <li><strong>GitHub:</strong> <a href="https://github.com/Innovate-With-Meet" target="_blank">github.com/InnovateWithMeet</a></li>
     <li><strong>Email:</strong> meetrana878@gmail.com</li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rana-meet-7503aa2ab/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">linkedin.com/in/Rana Meet</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rana-meet-7503aa2ab/" target="_blank">linkedin.com/in/Rana Meet</a></li>
   </ul>
 </body>
 </html>
