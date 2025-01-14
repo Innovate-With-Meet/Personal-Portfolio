@@ -144,7 +144,37 @@
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
+<p class="counter">Total Visits <span id="visit-count"></span></p>
+            <style>
+              body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                margin-top: 50px;
+              }
 
+              .counter {
+                font-size: 1rem;
+                color: #15bedb;
+              }
+            </style>
+        <script>
+  // Retrieve the count from localStorage
+          let visitCount = localStorage.getItem('visitCount');
+
+  // If no count exists, initialize it
+          if (!visitCount) {
+    visitCount = 0;
+  }
+
+  // Increment the visit count
+          visitCount++;
+
+  // Store the updated count in localStorage
+          localStorage.setItem('visitCount', visitCount);
+
+  // Display the count on the page
+          document.getElementById('visit-count').textContent = visitCount;
+        </script>
         </ul>
 
       </div>
