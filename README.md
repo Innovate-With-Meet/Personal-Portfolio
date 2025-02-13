@@ -17,7 +17,7 @@
       <ul>
         <li>ISRO-certified participant for IIRS projects.</li>
         <li>Selected for Gandhian Engineering Idea Competition 2024.</li>
-        <li>Developed a 'Multipurpose Artificial Autonomous Drone' Project Report.</li>
+        <li>Developed a 'Multipurpose Artificial Autonomous Drone' Project Report Based On Theoretical Concept.</li>
       </ul>
     </li>
     <h2>🌐 Portfolio Website</h2>
